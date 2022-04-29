@@ -4,8 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
+It is a copied project while i was working on Expense app i already had done it but had some problems and searched google and find a project->https://github.com/rafascm/personal-expenses i copied this project and made some changes in it.
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
